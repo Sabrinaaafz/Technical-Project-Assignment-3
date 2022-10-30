@@ -1,3 +1,3 @@
 # Project TMDB MOVIE
 
-## Hasil Akhir ```  https://moveous.netlify.app/ ```
+## Hasil Akhir Dapat Dilihat disini : [MovieDate](https://moveous.netlify.app/)
